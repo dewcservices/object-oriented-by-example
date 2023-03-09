@@ -1,3 +1,5 @@
 # Inheritance
 
 stuff
+
+new
