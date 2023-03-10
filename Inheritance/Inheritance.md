@@ -1,4 +1,4 @@
-# inheritance
+# Inheritance 
 
 Inheritance is a core feature of object-oriented programming that allows a class to inherit properties and behaviors from another class. In Java, we can create a new class that is derived from an existing class by using the "extends" keyword. The class that is being inherited from is called the superclass or parent class, while the class that inherits from it is called the subclass or child class. [1]
 
